@@ -5,7 +5,7 @@
 
   <p align="center">
     Modern, privacy-friendly, and cookie-free web analytics.
-    <br>
+    <br>hgh
     <strong><a href="#installation">Getting started »</a></strong>
   </p>
   <p align="center"><a href="#screenshots">Screenshots</a> &bull; <a href="#features">Features</a> &bull; <a href="https://miles.land/officehours/">Office Hours</a></p>
